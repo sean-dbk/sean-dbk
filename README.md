@@ -1,3 +1,2 @@
-# Hello, world
-
-Sorry this profile is pretty empty, my public work is [@seankhliao](https://github.com/seankhliao)
+- `<` HTTP/3 302 Found
+- `<` Location: https://seankhliao.com
